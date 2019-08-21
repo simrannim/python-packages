@@ -1,0 +1,52 @@
+1. REQUESTS
+Requests is a Python Library that lets you send HTTP/1.1 requests, add headers, form data, multipart files, and parameters with simple Python dictionaries.
+ It also lets you access the response data in the same way.
+
+2. SQLAlchemy
+
+
+SQLAlchemy is a library with well-known enterprise-level patterns. It was designed for efficient and high-performing database-access.
+
+3. BeautifulSoup
+It may be a bit slow, BeautifulSoup has an excellent XML- and HTML- parsing library for beginners.
+
+
+
+4. Pyglet
+Pyglet is an excellent choice for an object-oriented programming interface in developing games. In fact, it also finds use in developing other visually-rich 
+applications for Mac OS X, Windows, and Linux. In the 90s, when people were bored, they resorted to playing Minecraft on their computers. 
+Pyglet is the engine behind Minecraft.
+
+
+
+5. SciPy
+ SciPy, one of the libraries we have been talking so much about. It has a number of user-friendly and efficient numerical routines. 
+These include routines for optimization and numerical integration.
+
+
+6. Scrapy
+If your motive is fast, high-level screen scraping and web crawling, go for Scrapy. You can use it for purposes from data mining to monitoring and automated testing.
+
+
+7. PyGame
+PyGame provides an extremely easy interface to the Simple Directmedia Library (SDL) platform-independent graphic, audio, and input libraries.
+
+
+
+8. Python Twisted
+An event-driven networking engine, Twisted is written in Python, and licensed under the open-source MIT license.
+
+
+9. Pillow
+Pillow is a friendly fork of PIL (Python Imaging Library), but is more user-friendly. If you work with images, Pillow is your best friend.
+
+
+10. pywin32
+This provides useful methods and class for interaction with Windows, as the name suggests.
+
+
+
+11. wxPython
+It is a wrapper around wxWidgets for Python.
+
+
